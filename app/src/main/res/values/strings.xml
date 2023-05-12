@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name">Name: </string>
+    <string name="phone">Mobile Phone No.: </string>
+    <string name="size">Size of Group: </string>
+    <string name="reset">RESET</string>
+    <string name="time">DISPLAY TIME</string>
+    <string name="date">DISPLAY DATE</string>
+    <string name="smoke">Smoking Area</string>
+    <string name="non_smoke">Non-Smoking Area</string>
+    <string name="confirm">CONFIRM</string>
+</resources>
